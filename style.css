@@ -1,0 +1,74 @@
+#header-row {
+  border-bottom: 1px solid #b2b2b2;
+  padding: 0 0 50px 0;
+  margin-bottom: 50px;
+}
+#main-header {
+  color: #11c1f3;
+  font-size: 4.5em;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.mean-header-span {
+  color: #8ca7aa;
+}
+#main-logo {
+  width: 200px;
+}
+#main-subheader {
+  color: #b2b2b2;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.main-feature-headers {
+  color: #b2b2b2;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.main-feature-text {
+  color: #606060;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: .1em;
+}
+.featurette-image {
+  border-radius: 5px;
+}
+.btn.btn-default {
+  color: #b2b2b2;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: .1em;
+  border-color: #b2b2b2;
+}
+.btn.btn-default:hover {
+  background-color: #11c1f3;
+  color: #fff;
+}
+.featurette-heading {
+  color: #b2b2b2;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
+.lead {
+  color: #606060;
+  font-family: 'PT Sans', sans-serif;
+}
+.soon-header {
+  color: #b2b2b2;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.apple-store-logo {
+  width: 150px;
+}
+.google-store-logo {
+  width: 130px;
+}
