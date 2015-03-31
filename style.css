@@ -74,3 +74,14 @@
   width: 130px;
   padding: 30px 0;
 }
+
+#contact-me,
+#contact-name,
+#contact-twitter,
+#contact-email{
+  color: #b2b2b2;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
