@@ -83,5 +83,5 @@
   font-family: 'PT Sans', sans-serif;
   text-transform: uppercase;
   letter-spacing: .2em;
-  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+  padding: 20px 0;
 }
